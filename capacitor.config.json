@@ -1,0 +1,9 @@
+{
+  "appId": "com.mathora.calculator",
+  "appName": "Mathora",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#f7f8fc",
+    "allowMixedContent": false
+  }
+}
